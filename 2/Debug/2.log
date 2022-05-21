@@ -1,0 +1,10 @@
+﻿  2.cpp
+C:\Users\rober\Desktop\2\2.cpp(77,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rober\Desktop\2\2.cpp(77,48): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rober\Desktop\2\2.cpp(77,75): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rober\Desktop\2\2.cpp(205,36): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rober\Desktop\2\2.cpp(268,19): warning C4018: '>': signed/unsigned mismatch
+C:\Users\rober\Desktop\2\2.cpp(270,20): warning C4018: '>': signed/unsigned mismatch
+C:\Users\rober\Desktop\2\2.cpp(273,40): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rober\Desktop\2\2.cpp(285,40): warning C4018: '<': signed/unsigned mismatch
+  2.vcxproj -> C:\Users\rober\Desktop\2\Debug\2.exe
